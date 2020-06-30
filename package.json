@@ -1,0 +1,10 @@
+{
+  "name": "distributed-consensus-node",
+  "version": "1.0.0",
+  "description": "RAFT, in NodeJS",
+  "main": "main.js",
+  "repository": "https://github.com/vjrngn/node-raft",
+  "author": "Vijay Rangan",
+  "license": "MIT",
+  "private": false
+}
